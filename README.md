@@ -1,6 +1,6 @@
-# EE2020-Signal-Generator
+# Basys3 Signal Generator
 
-Signal generator in Verilog HDL for Basys3 for EE2020.
+Signal generator in Verilog HDL for Basys3.
 
 Sinusoidal wave employs the Xilinx CORDIC core. However, a look-up table is also included. Edit the code to use the look-up table if IP core is not available.
 
